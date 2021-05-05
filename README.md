@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning Javascript 👌
 - 👯 I’m looking to collaborate.
-- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
