@@ -26,7 +26,7 @@
 ---
 
 
-<img align="left" alt="keirahela's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=keirahela&show_icons=true&hide_border=true" />
+![keirahela's GitHub stats](https://github-readme-stats.vercel.app/api?username=keirahela&show_icons=true&theme=radical&show_icons=true&count_private=true)
 
 <img src="https://media.tenor.com/images/d1a5146e071fc126e2495c7cd972fda4/tenor.gif" alt="a" height="250" data-canonical-src="https://media.tenor.com/images/d1a5146e071fc126e2495c7cd972fda4/tenor.gif" style="max-width:100%;">
 
