@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning Javascript 👌
 - 👯 I’m looking to collaborate.
+### DM me on discord if you can teach me something :shypepe:
+# keirahela#0001
 
 ### Connect with me:
 
