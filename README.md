@@ -48,8 +48,7 @@
   <img src="https://invidget.switchblade.xyz/819984076639174716" align="right">
 </a>
 
-- **[Discord](https://discord.com/users/714550610489508050)** DomeQ#0001
-- **[YouTube](https://www.youtube.com/channel/UChrArnvNdoVDFrg7O9yUcXg)** DomeQ
+- **[Discord](https://discord.com/users/431125241264209930)** keirahela#0001
 
 [website]: https://www.crymore.pw/forum/index.php
 [youtube]: https://www.youtube.com/channel/UCzCKIOXuAeduHkDrOPTCwZA
