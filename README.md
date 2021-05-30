@@ -36,7 +36,7 @@
       </td>
       <td align="center">
         <a target="_blank" rel="noopener noreferrer" href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-"><img align="center" src="https://camo.githubusercontent.com/76040e47325cbf9a6171a1519dacc60f4e7240080080cd926d3cc89f8b05a0f7/68747470733a2f2f6769746875622d726561646d652d73746174732e7175616e74756d6c7974616e676c65642e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d446f6d6551646576266c61796f75743d636f6d706163742673686f775f69636f6e733d74727565267469746c655f636f6c6f723d34463843433926746578745f636f6c6f723d3966396639662662675f636f6c6f723d303030303030303026686964655f626f726465723d747275652669636f6e5f636f6c6f723d303030303030303026636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=keirahela&amp;layout=compact&amp;show_icons=true&amp;title_color=4F8CC9&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=00000000&amp;count_private=true" style="max-width:100%;"></a>
+"><img align="center" src="" data-canonical-src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=keirahela&amp;layout=compact&amp;show_icons=true&amp;title_color=4F8CC9&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=00000000&amp;count_private=true" style="max-width:100%;"></a>
       </td>
     </tr>
   </tbody></table>
