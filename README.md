@@ -42,7 +42,9 @@
   </table>
 </details>
 
-<img src="https://media.tenor.com/images/d1a5146e071fc126e2495c7cd972fda4/tenor.gif" alt="a" height="250" data-canonical-src="https://media.tenor.com/images/d1a5146e071fc126e2495c7cd972fda4/tenor.gif" style="max-width:100%;">
+<a href="https://discord.gg/7BeDqdRFtE">
+  <img src="https://invidget.switchblade.xyz/819984076639174716" align="right">
+</a>
 
 [website]: https://www.crymore.pw/forum/index.php
 [youtube]: https://www.youtube.com/channel/UCzCKIOXuAeduHkDrOPTCwZA
