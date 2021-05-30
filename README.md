@@ -42,9 +42,14 @@
   </table>
 </details>
 
+## Follow me around
+
 <a href="https://discord.gg/7BeDqdRFtE">
   <img src="https://invidget.switchblade.xyz/819984076639174716" align="right">
 </a>
+
+- **[Discord](https://discord.com/users/714550610489508050)** DomeQ#0001
+- **[YouTube](https://www.youtube.com/channel/UChrArnvNdoVDFrg7O9yUcXg)** DomeQ
 
 [website]: https://www.crymore.pw/forum/index.php
 [youtube]: https://www.youtube.com/channel/UCzCKIOXuAeduHkDrOPTCwZA
