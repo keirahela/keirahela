@@ -44,7 +44,7 @@
 
 ## Follow me around
 
-<a href="https://discord.gg/7BeDqdRFtE">
+<a href="https://discord.gg/hjjx3HmjMC">
   <img src="https://invidget.switchblade.xyz/819984076639174716" align="right">
 </a>
 
