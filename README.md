@@ -50,7 +50,7 @@
   <img src="http://invidget.switchblade.xyz/852271260796452924/" align="right">
 </a>
 
-<a href="https://discord.com/users/431125241264209930"><img src="https://discord.c99.nl/widget/theme-3/431125241264209930.png" align="left" alt="discord"/></a>
+<a href="https://discord.com/users/431125241264209930"><img src="https://discord.c99.nl/widget/theme-3/431125241264209930.png" alt="discord"/></a>
 
 [website]: https://www.crymore.pw/forum/index.php
 [youtube]: https://www.youtube.com/channel/UCzCKIOXuAeduHkDrOPTCwZA
