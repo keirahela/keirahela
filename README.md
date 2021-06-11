@@ -50,7 +50,7 @@
   <img src="http://invidget.switchblade.xyz/852271260796452924/" align="right">
 </a>
 
-- **[Discord](https://discord.com/users/431125241264209930)** keirahela#0001
+<a href="https://discord.com/users/431125241264209930"><img src="https://discord.c99.nl/widget/theme-3/431125241264209930.png" align="left" alt="discord"/></a>
 
 [website]: https://www.crymore.pw/forum/index.php
 [youtube]: https://www.youtube.com/channel/UCzCKIOXuAeduHkDrOPTCwZA
