@@ -45,7 +45,7 @@
 ## Follow me around
 
 <a href="https://discord.gg/hjjx3HmjMC">
-  <img src="https://invidget.switchblade.xyz/819984076639174716" align="right">
+  <img src="http://invidget.switchblade.xyz/852271260796452924/" align="right">
 </a>
 
 - **[Discord](https://discord.com/users/431125241264209930)** keirahela#0001
