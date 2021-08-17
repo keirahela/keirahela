@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science School Student.
 
-- 🌱 I’m currently learning C Sharp 👌
+- 🌱 I’m currently learning Javascript more 👌
 - 👯 I’m looking to collaborate.
 ### DM me on discord if you can teach me something :shypepe:
 ### keirahela#0001
