@@ -49,5 +49,5 @@
 <a href="https://discord.com/users/459268741138612226"><img src="https://discord.c99.nl/widget/theme-2/459268741138612226.png" alt="discord"/></a>
 
 [website]: https://upload.systems/
-[discord]: https://discord.gg/7yqnpQN6PQ
+[discord]: https://discord.gg/host
 [instagram]: https://www.instagram.com/keirahela/
