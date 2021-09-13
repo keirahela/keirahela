@@ -46,8 +46,8 @@
 
 ## Follow me around
 
-<a href="https://discord.gg/a2uN9TmrZy">
-  <img src="https://invidget.switchblade.xyz/852271260796452924" align="right">
+<a href="https://discord.gg/7yqnpQN6PQ">
+  <img src="https://invidget.switchblade.xyz/695354962921914439" align="right">
 </a>
 
 <a href="https://discord.com/users/459268741138612226"><img src="https://discord.c99.nl/widget/theme-2/459268741138612226.png" alt="discord"/></a>
