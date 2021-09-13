@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="CryMore.pw" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="upload.systems" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Discord" width="22px" src="https://icons.getbootstrap.com/assets/icons/discord.svg" />][discord]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -48,6 +48,6 @@
 
 <a href="https://discord.com/users/459268741138612226"><img src="https://discord.c99.nl/widget/theme-2/459268741138612226.png" alt="discord"/></a>
 
-[website]: https://www.crymore.pw/forum/index.php
-[youtube]: https://www.youtube.com/channel/UCzCKIOXuAeduHkDrOPTCwZA
+[website]: https://upload.systems/
+[discord]: https://discord.gg/7yqnpQN6PQ
 [instagram]: https://www.instagram.com/keirahela/
