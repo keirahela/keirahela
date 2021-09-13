@@ -2,10 +2,8 @@
 
 ## I'm a Computer Science School Student.
 
-- 🌱 I’m currently learning Javascript more 👌
-- 👯 I’m looking to collaborate.
-### DM me on discord if you can teach me something :shypepe:
-### keirahela#0001
+- 🌱 I’m currently learning Javascript 👌
+- 👯 I’m a support at [upload.systems][website]
 
 ### Connect with me:
 
