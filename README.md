@@ -3,7 +3,7 @@
 ## I'm a Computer Science School Student.
 
 - 🌱 I’m currently learning Javascript 👌
-- 👯 I’m a support at [upload.systems][website]
+- 👯 I’m a moderator at [upload.systems][website]
 
 ### Connect with me:
 
