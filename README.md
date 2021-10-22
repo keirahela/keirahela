@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science School Student.
 
-- 🌱 I’m currently learning Javascript 👌
+- 🌱 I’m currently learning Javascript/Python 👌
 - 👯 I’m a moderator at [upload.systems][website]
 
 ### Connect with me:
