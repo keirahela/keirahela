@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science School Student.
 
-- 🌱 I’m currently learning Javascript/Python 👌
+- 🌱 I’m currently learning Lua 👌
 - 👯 I’m a moderator at [upload.systems][website]
 - 📫 **How to reach me keirahela@femboy.market**
 
