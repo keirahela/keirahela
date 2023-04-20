@@ -21,6 +21,7 @@
 <a href="https://nodejs.org/en/"><img aligh="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/></a>
 <a href="http://www.lua.org"><img aligh="left" alt="Lua" width="26px" src="https://camo.githubusercontent.com/3b3d3cd40d5bc39d078293cb92c7627f3c7d018f6578e96d5801874d8b266939/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f70726f6772616d6d696e672d6c616e6775616765732d6c6f676f732f7372632f6c75612f6c75612e737667"/></a>
 <a href="https://www.w3schools.com/cs/index.php"><img aligh="left" alt="C Sharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/></a>
+<a href="https://www.w3schools.com/cpp/default.asp"><img aligh="left" alt="C++" width="26px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"/></a>
 <br />
 <br />
 
