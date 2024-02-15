@@ -1,8 +1,8 @@
-### Hi there, I'm keirahela 👋
+### Hello! I'm keirahela 👋
 
 ## I'm a Computer Science School Student.
 
-- 👯 I’m a moderator at [upload.systems][website]
+- 👯 I was a moderator at [upload.systems][website]
 
 ### Connect with me:
 
