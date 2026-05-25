@@ -1,7 +1,5 @@
 ### Hello! I'm keirahela 👋
 
-## I'm a Computer Science School Student.
-
 - 👯 I was a moderator at [upload.systems][website]
 
 ### Connect with me:
